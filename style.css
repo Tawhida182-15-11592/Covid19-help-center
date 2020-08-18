@@ -1,0 +1,19 @@
+body{
+    font-family: 'Baloo Tamma 2', cursive;
+}
+.border1
+{
+    border-style: solid;
+    border-color: darkmagenta; 
+}
+
+.border2
+{
+    border-style: solid;
+    border-color:darkgreen; 
+}
+.border3
+{
+    border-style: solid;
+    border-color:crimson; 
+}
